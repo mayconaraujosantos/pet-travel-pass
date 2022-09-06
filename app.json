@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "pet-travel-pass",
+    "slug": "pet-travel-pass",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "pet-travel-pass"
+}
